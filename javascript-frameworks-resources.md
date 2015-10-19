@@ -10,6 +10,7 @@
 * [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2)
 * [AngularJS in 60 Minutes](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf) (PDF)
 * [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/)
+* [AngularJS with Ruby on Rails](http://angular-rails.com)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](http://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org/)
@@ -17,7 +18,8 @@
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
-
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [Angular Basics](http://www.angularjsbook.com/)
 
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -33,15 +35,18 @@
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
+## Booty5.js
+* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
+
+
 ## D3.js
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
-* [D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
-* [Dashing D3.js](https://www.dashingd3js.com/table-of-contents)
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks) (Leanpub) - Malcolm Maclean
+* [Dashing D3.js Tutorial](https://www.dashingd3js.com/table-of-contents)
 * [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
 
-##Dojo
+## Dojo
 * [Dojo: The Definitive Guide](http://chimera.labs.oreilly.com/books/1234000001819/index.html) - Matthew A. Russell
 
 
@@ -50,14 +55,16 @@
 * [Ember App with RailsApi](http://reefpoints.dockyard.com/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1.html)
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [EmberFlare](https://emberflare.com/)
-* [Let's Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/)
+* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
 
 
-##Express.js
+## Express.js
 * [Express.js Guide](https://leanpub.com/express/read) *(Leanpub, by Azat Mardanov)*
 
 
-##jQuery
+## jQuery
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -82,3 +89,20 @@
     * [Lesson 13 - Additional Knockout features](http://tech.pro/tutorial/1574/knockoutjs-lesson-13-additional-knockout-features)
     * [Lesson 14 - Adding a lightbox](http://tech.pro/tutorial/1575/knockoutjs-lesson-14-adding-a-lightbox)
     * Lesson 15: Summary of the series (Coming soon...)
+
+## Meteor
+* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+* [BulletProof Meteor](https://bulletproofmeteor.com/)
+
+## React
+* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial)
+* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
+* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/tutorial.html)
+* [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+* React Tutorial by Josh Finnie
+    * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
+    * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
+    * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
+* [SurviveJS - Webpack and React](http://survivejs.com/)

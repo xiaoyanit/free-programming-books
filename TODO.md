@@ -17,16 +17,17 @@ TODO
     - [ ] bg
     - [ ] de
     - [x] es
-    - [ ] en
+    - [x] en
     - [x] fa_IR
     - [ ] fr
     - [ ] it
     - [ ] ja
     - [ ] ko
     - [ ] pt_BR
-    - [ ] pt_PT
+    - [X] pt_PT
     - [x] ru
     - [ ] tr
-    - [ ] zh
+    - [x] zh
     - [ ] javascript framework
-    - [ ] courses
+    - [x] courses
+    - [ ] problem sets
